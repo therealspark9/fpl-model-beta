@@ -241,6 +241,12 @@ ATT: Haaland (£14.5m), ...
 Expected Points (GW): 74.3
 ```
 
+Risk Analysis Graph:
+
+![alt text][logo]
+
+[logo]: https://github.com/therealspark9/fpl-model-beta/blob/fc73bfc3c994549273f33780d10441012e4d806c/reference-images/Risk%20analysis%20graph%20FPL%20autodraw%207_17_2026.png "Risk Analysis Graph"
+
 ---
 
 ## 📄 License
